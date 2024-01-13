@@ -1,2 +1,2 @@
 # pedidos-infra-db
-Infra AWS para DB Pedidos
+Repositório para a Infra de Banco de Dados de Pedidos
